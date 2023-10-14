@@ -35,7 +35,7 @@ Cứ thế không nhập mã mà quay lại trang account trước đó thay `wi
 
 ## [Lab 8: 2FA broken logic](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-broken-logic)
 
-![Alt text](image.png)
+![Alt text](../image/lab8/0.png)
 
 > - **Mô tả lab:** xác thực 2 yếu tố có lỗi logic
 >
