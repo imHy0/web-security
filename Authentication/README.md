@@ -66,7 +66,7 @@ Nếu người dùng được nhắc nhập mật khẩu lần đầu tiên, sau
 
 - Brute forcing mã xác minh 2FA (lab 9) [EXPERT]
 
-[5.3. Lỗ hổng trong các cơ chế xác thực khác](./lab/part3.md)
+## [5.3. Lỗ hổng trong các cơ chế xác thực khác](./lab/part3.md)
 
 - Keeping users logged in (lab 10, 11)
 
