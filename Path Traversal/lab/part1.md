@@ -13,7 +13,7 @@ Trang web chính có rất nhiều hình ảnh sản phẩm
 
 hãy bật `Images` để xem các path đến image nữa vì trang có rất nhiều image và sẽ có directory lưu trữ nó
 
-![Alt text](../image/lab1/02.png)![Alt text](image.png)
+![Alt text](../image/lab1/02.png)
 
 Quan sát các Request chứa hình ảnh sản phẩm của web
 
@@ -23,7 +23,7 @@ test thôi
 
 ![Alt text](../image/lab1/04.png)
 
-response trả về `No such file` --> directory hiện không có thư mục --> lùi thư mục đến chỗ đọc được thì thôi
+response trả về `No such file` → directory hiện không có thư mục → lùi thư mục đến chỗ đọc được thì thôi
 
 ![Alt text](../image/lab1/05.png)
 
