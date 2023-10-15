@@ -89,7 +89,7 @@ main web
 
 Chức năng chứa lỗi `Command Injection`
 
-![submit feedback](../image/lab3/02.png)
+![submit feedback](../image/lab2/02.png)
 
 Test thử xem lỗi như thế nào, chèn command đơn giản thì thấy rằng response trả về không hiển thị kết quả của command
 
