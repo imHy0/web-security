@@ -9,5 +9,5 @@
 | 2 | [Authentication](/Authentication/) | ✅ 3/3 | ✅ 9/9 | ❌ 1/2 | ✅ 13/14 |
 | 3 | [Path Traversal](/Path%20Traversal/) | ✅ 1/1 | ✅ 5/5 | ❌ | ✅ 6/6 |
 | 4 | [Command Injection](/Command%20Injection/) | ✅ 1/1 | ✅ 4/4 | ❌ | ✅ 5/5 |
-| 5 | [Business logic vulnerabilities]() | ✅ 4/4 | ✅ 8/8 | ❌ | ✅ 12/12 |
+| 5 | [Business logic vulnerabilities](/Business%20logic%20vulnerabilities/) | ✅ 4/4 | ✅ 8/8 | ❌ | ✅ 12/12 |
 | 6 | [Information Disclosure](/Information%20Disclosure/) | ✅ 4/4 | ✅ 1/1 | ❌ | ✅ 5/5 |
