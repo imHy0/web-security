@@ -11,3 +11,5 @@
 | 4 | [Command Injection](/Command%20Injection/) | ✅ 1/1 | ✅ 4/4 | ❌ | ✅ 5/5 |
 | 5 | [Business logic vulnerabilities](/Business%20logic%20vulnerabilities/) | ✅ 4/4 | ✅ 8/8 | ❌ | ✅ 12/12 |
 | 6 | [Information Disclosure](/Information%20Disclosure/) | ✅ 4/4 | ✅ 1/1 | ❌ | ✅ 5/5 |
+| 7 | [Access Control](/Access%20Control/) | ✅ 9/9 | ✅ 4/4 | ❌ | ✅ 13/13 |
+| 8 | [File Upload Vulnerabilities](/File%20Upload%20Vulnerabilities/) | ✅ 2/2 | ✅ 4/4 | ❌ 0/1 | ✅ 6/7 |
