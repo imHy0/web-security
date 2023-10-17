@@ -13,3 +13,4 @@
 | 6 | [Information Disclosure](/Information%20Disclosure/) | ✅ 4/4 | ✅ 1/1 | ❌ | ✅ 5/5 |
 | 7 | [Access Control](/Access%20Control/) | ✅ 9/9 | ✅ 4/4 | ❌ | ✅ 13/13 |
 | 8 | [File Upload Vulnerabilities](/File%20Upload%20Vulnerabilities/) | ✅ 2/2 | ✅ 4/4 | ❌ 0/1 | ✅ 6/7 |
+| 10 | [Server-side Request Forgery](/Server-side%20request%20forgery%20(SSRF)/) | ✅ 2/2 | ✅ 3/3 | ❌ 0/2 | ✅ 5/7 |
