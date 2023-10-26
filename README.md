@@ -15,4 +15,5 @@
 | 8 | [File Upload Vulnerabilities](/File%20Upload%20Vulnerabilities/) | ✅ 2/2 | ✅ 4/4 | ❌ 0/1 | ✅ 6/7 |
 | 10 | [Server-side Request Forgery](/Server-side%20request%20forgery%20(SSRF)/) | ✅ 2/2 | ✅ 3/3 | ❌ 0/2 | ✅ 5/7 |
 | 11 | [XXE Injection](/XXE%20Injection/) | ✅ 2/2  | ✅ 6/6  | ❌ 0/1 | ✅ 8/9 |
-
+|  | ***Client-side topics*** |  |  |  |  |
+| 16 | [Clickjacking](Clickjacking%20(UI%20redressing)/) | ✅ 3/3 | ✅ 2/2 | ❌ | ✅ 5/5 |
