@@ -78,23 +78,31 @@ solve
 
 vẫn lỗi như **lab 1, 2**, khi test các URL `127.0.0.1` hoặc `localhost` thì đều sẽ gặp lỗi 400 vì đã bị block
 
+![Alt text](../image/lab3/01.png)
+
+Tuy nhiên có thể bypass bằng cách sử dụng `127.1`
+
 ![Alt text](../image/lab3/02.png)
 
-bypass bằng 1 số cách như `127.1` thì vẫn bị lỗi 400 như trên, obfuscate ký tự `a` bằng doubleUrl encode, `%61` là `a`, `%25` là `%`
+Nhưng khi truy cập `/admin` thì lại tiếp tục bị block
 
 ![Alt text](../image/lab3/03.png)
 
-Truy cập được giao diện quản trị, chú ý path xóa `carlos`
+Bypass bằng doubleURLencode
 
 ![Alt text](../image/lab3/04.png)
 
-xóa
+Truy cập được giao diện quản trị, chú ý path xóa `carlos`
 
 ![Alt text](../image/lab3/05.png)
 
-solve
+xóa `carlos`
 
 ![Alt text](../image/lab3/06.png)
+
+solve lab
+
+![Alt text](../image/lab3/07.png)
 
 # [Lab 5: SSRF with filter bypass via open redirection vulnerability](https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection)
 
