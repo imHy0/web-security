@@ -13,7 +13,7 @@
 
 | CSRF | Clickjacking |
 | --- | --- |
-| Người dùng được yêu cầu thực hiện một hành động như nhấp chuột vào một nút. | Phụ thuộc vào việc giả mạo một yêu cầu hoàn chỉnh mà không cần sự chứng thực hoặc đầu vào của người dùng.|
+| Phụ thuộc vào việc giả mạo một yêu cầu hoàn chỉnh mà không cần sự chứng thực hoặc đầu vào của người dùng. | Người dùng được yêu cầu thực hiện một hành động như nhấp chuột vào một nút.|
 | Bảo vệ bằng cách sử dụng `CSRF token`, chỉ sử dụng 1 lần và liên quan đến phiên làm việc | Không bị giảm thiểu bởi `CSRF token` vì phiên mục tiêu được thiết lập với nội dung được tải từ một trang web chính thức và tất cả các yêu cầu xảy ra trên tên miền đó.|
 
 # [2. Khai thác](lab/part1.md)
